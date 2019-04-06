@@ -1,6 +1,10 @@
 import pkg from './package'
 
 export default {
+  router:{
+    base: '/cfstatus/'
+  },
+
   mode: 'spa',
 
   /*
