@@ -13,5 +13,9 @@ module.exports = {
   ],
   // add your custom rules here
   rules: {
+    'indent': 0,
+    'no-console': 1,
+    'no-unused-vars': 1,
+    'semi': 1,
   }
 }
